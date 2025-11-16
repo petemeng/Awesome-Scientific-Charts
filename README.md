@@ -8,8 +8,8 @@
 
 | ID  | 预览图 (Preview) | 描述与核心技术 | 项目链接 |
 |:---:|:---|:---|:---:|
-| **01** | <a href="./Projects/01_20251114组合热图/"><img src="./Projects/01_20251114组合热图/Figures/Fig3a_Combined_Corrected.png" width="400" alt="组合式热图预览"></a> | **组合式热图** <br> • **来源**: *Nature Microbiol.* <br> • **DOI**: [10.1038/s41564-024-01874-9](https://doi.org/10.1038/s41564-024-01874-9) <br> • **核心技术**: `ggplot2`, `patchwork` | [➡️ 查看项目](./Projects/01_20251114组合热图/) |
-| **02** | <a href="./Projects/02_20251116NM进化树/"><img src="./Projects/02_20251116NM进化树/Figures/Fig_1c_bacterialTree.png" width="400" alt="多层注释进化树预览"></a> | **多层注释进化树** <br> • **来源**: *Nature Microbiol.* <br> • **DOI**: [10.1038/s41564-024-01874-9](https://doi.org/10.1038/s41564-024-01874-9) <br> • **核心技术**: `ggtree`, `ggtreeExtra`, `ggnewscale` | [➡️ 查看项目](./Projects/02_20251116NM进化树/) |
+| **01** | <a href="./Projects/01_20251114组合热图/"><img src="./Projects/01_20251114组合热图/Figures/原图.png" width="400" alt="组合式热图预览"></a> | **组合式热图** <br> • **来源**: *Nature Microbiol.* <br> • **DOI**: [10.1038/s41564-024-01874-9](https://doi.org/10.1038/s41564-024-01874-9) <br> • **核心技术**: `ggplot2`, `patchwork` | [➡️ 查看项目](./Projects/01_20251114组合热图/) |
+| **02** | <a href="./Projects/02_20251116NM进化树/"><img src="./Projects/02_20251116NM进化树/Figures/原图.png" width="400" alt="多层注释进化树预览"></a> | **多层注释进化树** <br> • **来源**: *Nature Microbiol.* <br> • **DOI**: [10.1038/s41564-024-01874-9](https://doi.org/10.1038/s41564-024-01874-9) <br> • **核心技术**: `ggtree`, `ggtreeExtra`, `ggnewscale` | [➡️ 查看项目](./Projects/02_20251116NM进化树/) |
 | ... | ... | ... | ... |
 
 ---
